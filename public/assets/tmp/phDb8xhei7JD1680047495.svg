@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 600 600" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(2.62652 0 0 2.76587 -485.503 -487.013)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="207.25" x2="379.5" y1="288.75" y2="288.75">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#414a51"/>
+</linearGradient>
+</defs>
+<g id="TV" vectornator:layerName="TV">
+<path d="M553.941 91.7442L33.8908 155.359L35.8607 508.007L552.628 525.294L553.941 91.7442Z" fill="#231f20" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+</g>
+<g id="Screen" vectornator:layerName="Screen">
+<path d="M511.26 134.615L58.8427 181.635L60.156 478.274L510.604 488.646L511.26 134.615Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="polygon"/>
+</g>
+<g id="Layer_3" vectornator:layerName="Layer_3">
+<path d="M511.26 134.615L510.604 488.646" fill="#231f20" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="line"/>
+</g>
+</svg>

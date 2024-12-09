@@ -1,0 +1,32 @@
+[23-Nov-2022 11:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/halaw/public_html/admin_old/project/vendor/laravel/framework in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[23-Nov-2022 11:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/halaw/public_html/ in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[23-Nov-2022 11:20:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/halaw/public_html/admin_old/project/vendor/psr/log/src/LoggerInterface.php on line 30
+[23-Nov-2022 11:20:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[23-Nov-2022 11:20:12 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/halaw/public_html/admin_old/project/vendor/psr/log/src/LoggerInterface.php on line 30
+[23-Nov-2022 11:20:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[23-Nov-2022 11:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/halaw/public_html/admin_old/project/vendor/laravel/framework in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[23-Nov-2022 11:20:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/halaw/public_html/ in /home/halaw/public_html/admin_old/project/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31

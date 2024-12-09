@@ -1,0 +1,441 @@
+
+@media (min-width: 992px) and (max-width:1200px) {
+    .NavBottom .Items {margin-right: 130pt;}
+    .NavBottom .Items .nav-link {
+        margin-left: 40px;
+        font-size: 12pt;
+    }
+    .Top-Navbar .navbar-nav .Search {
+        width: 270pt;
+    }
+    .cardShare .card-img1 {
+        height: 200px;
+    }
+    .cardShare .AddDescribe1 {width: 100%;font-size: 8pt;}
+    .cardShare .AddDescribe2 {
+        font-size: 11pt;
+        width: 100%;
+    }
+    .PostAd .ItemAd .select-items {
+        width: 60%;
+    }
+    .PersonMessages .ChatSpace .messageItem {width: 60%;}
+
+    .MyInfo .MyInfoContainer .MyData .MyImg::before{
+        content: url(../img/SVG/StyleIMgLG.svg);
+        top: -16px;
+        right: -44px;
+    }
+    .PaymentWay .PaymentWayItems label .PaymentWayItem img {
+        height: 50px;
+    }
+    .MyProducts .ProductItem .describeProduct p {font-size: 10pt;}
+}
+@media (min-width:991px) {
+    .classfications .item .classficationImg{height: 100pt !important;}
+}
+@media (max-width:991.98px) {
+
+    .container {width: 95%;}
+    /* NavBottom Style => Special In Mobile */
+    .NavBottom.Close{
+        transform: translateX(250px);
+    }
+    .NavBottom.Open{transform: translateX(0px);}
+    .NavBottom  {
+        z-index: 5;
+        width: 250px;
+        top: 0px;
+        height: 100%;
+        box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3);
+        overflow-y: auto;
+        position: fixed;
+        padding-top: 15pt !important    ;
+        transition: 0.3s all;
+        -webkit-transition: 0.3s all;
+        -moz-transition: 0.3s all;
+        -o-transition: 0.3s all;
+    }
+    .NavBottom .navbar-nav{display: block;height: 100%;}
+    .NavBottom .Items {margin-right: 10px;}
+    .NavBottom .SearchSec {
+        background: var(--bs-Bg);
+        padding: 0pt 10pt;
+        border-radius: 25pt;
+        box-shadow: 0px 3px 6px rgba(0,0,0,0.16);
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownUser img {
+        width: 30pt;
+        height: 30pt;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownSpecial .dropdown-menu {
+        position: absolute;
+        left: -120px;
+        width: 250px;
+        height: 200px;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownNoticition .dropdown-menu {
+        left: -95px;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownSpecial .dropdown-menu img{
+        width: 40px;
+        height: 40px;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownSpecial .dropdown-menu span {
+        font-size: 8pt;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownSpecial .dropdown-menu .TypeNotifiction i {
+        font-size: 7pt;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownSpecial .dropdown-menu .TypeNotifiction {
+        width: 20px;
+        height: 20px;
+    }
+    .Top-Navbar .NavTopItems .navbar-nav .dropdownUser .dropdown-menu {
+        position: absolute;
+        top: 68px;
+        font-size: 10pt;
+    }
+
+    .PersonChats {height: 550px;}
+    .PersonChats .personItem {
+        padding: 10pt;
+    }
+    .PersonChats .personItem img,
+    .PersonMessages .PersonName img{width: 40px;height: 40px;}
+    .PersonChats .personItem .infoUser {font-size: 10pt;}
+    .PersonMessages .ChatSpace .messageItem {
+        padding: 10px 5px;
+        width: 85%;
+    }
+    .PersonMessages .WriteMessage .write input {width: 70%;}
+    .PersonMessages {padding: 10pt;}
+
+
+}
+@media (min-width: 768px) and (max-width:991px) {
+    .cardShare .card-img1 {
+        height: 290px;
+    }
+    .BigAdds .Add {
+        height: 200pt;
+    }
+    .PostAd .ItemAd .select-items {
+        width: 65%;
+    }
+
+    .classficationsPage .item .classficationImg {height: 70pt !important;}
+    .classficationsPage .item .classficationImg {margin-bottom: 5px;}
+    .AddsItems .AddsItem {padding-left: 10pt;padding-right: 10pt;}
+    .MyInfo .MyInfoContainer {width: 90%;}
+    .MyInfo .MyInfoContainer .MyData .MyImg::before {
+        content: url(../img/SVG/StyleIMgMd.svg);
+        top: -13px;
+        right: -40px;
+    }
+    .MyInfo .FollowData .DataItems {
+        width: 60%;
+    }
+    .packages .packagesItems label .packagesItem, .FixedAdd .FixedAddItems label .packagesItem {
+        padding: 10pt 0pt;
+    }
+
+}
+@media screen and (min-width: 769px) {
+    .navClass .dropstart:hover > .dropdown-menu {
+        position: absolute;
+        top: 0;
+        right: 100%;
+    }
+    .navClass .dropstart .dropdown-toggle {
+        margin-left: 0.5em;
+    }
+}
+@media (max-width:767.98px) {
+    .Top-Navbar .navbar-brand svg,
+    .NavBottom .Logo svg {
+        width: 90px;
+        height: auto;
+    }
+    .NavBottom .Items .nav-link {font-size: 12pt;}
+    .headerShare h4 {font-size: 13pt;}
+    .classfications .item .classficationImg {margin-bottom: 5px;}
+    .fixedMarg {margin-bottom: 20pt;}
+    .AddsItems .AddsItem,
+    .AddsItems .AddsItem:first-child,
+    .AddsItems .AddsItem:last-child{
+        padding-right: 12pt;
+        padding-left: 12pt;
+        margin-bottom: 15pt;
+    }
+    .cardShare .card-img2 {
+        height: 225px;
+    }
+    .cardShare .AddDescribe1,
+    .cardShare .AddDescribe2 {
+        font-size: 9pt;
+        width: 100%;
+        line-height: 17pt;
+    }
+
+    .cardShare .AddDetails span {
+        padding: 5pt 10pt;
+        border: 1px solid var(--bs-Btn-Card);
+        text-align: center;
+        color: var(--bs-Btn-Card);
+        border-radius: 5pt;
+    }
+    .cardShare .AddDetails2 span {
+        width: 90pt;
+        font-size: 12pt;
+    }
+    .footer .Follow {width: 100%;text-align: center;}
+    .footer .Item1 .SocialLinks {justify-content: center;}
+    .footer .Item2 .ImgStores {text-align: center;}
+    .BigAdds .Add {height: 120pt;}
+
+    .PostAd .ItemAd .select-items {
+        width: 60%;
+    }
+    .PostAd .ItemAd button[type=submit] {
+        width: 200px;
+        padding: 10pt 5pt;
+        font-size: 14pt;
+    }
+    .PersonChats {height: 200px;}
+
+
+    .MyInfo .MyInfoContainer{width: 100%;}
+    .MyInfo .MyInfoContainer .MyMainInfo .TopDiv h4 {font-size: 12pt;}
+    .MyInfo .MyInfoContainer .MyData {display: block !important;}
+    .MyInfo .FollowData .DataItems {width: 90%;border-radius: 10pt;}
+    .MyInfo .MyInfoContainer .MyData .MyImg {
+        width: 80px;
+        height: 80px;
+        margin: auto;
+    }
+    .MyInfo .MyInfoContainer .MyMainInfo .TopDiv .SocialLinks a {
+        width: 30px;
+        height: 30px;
+        font-size: 11pt;
+    }
+    .MyInfo .MyInfoContainer .MyMainInfo .EditMyData a,
+    .MyInfo .MyInfoContainer .MyMainInfo .SellerFollow a{padding: 7pt 10pt;}
+
+    .MyInfo .FollowData .DataItems h5{font-size: 10pt;}
+    .MyInfo .MyInfoContainer .MyData .MyImg::before {
+        top: -18px;
+        right: -50px;
+        content: url(../img/SVG/StyleIMgMobile.svg);
+    }
+
+
+    .MyProducts .ProductItem {display: block !important;padding: 10pt;}
+    .MyProducts .ProductItem .ImgProduct img {width: 100%;height: auto}
+    .MyProducts .MyProductsItem:last-child, .MyProducts .MyProductsItem:nth-last-child(2) {margin-bottom: 8pt;}
+
+
+    .contentSubscribe .submitBtn button {
+        width: 200px;
+    }
+    .sub-content-2 {padding-top: 50px;}
+    .packages .packagesItems label .packagesItem,
+    .FixedAdd .FixedAddItems label .packagesItem {
+        padding: 20pt 0pt;
+    }
+    .packages .packagesItems label,
+    .FixedAdd .FixedAddItems label {margin-bottom: 10pt;}
+
+    .TermsUse {padding: 20pt 20pt;}
+    .TermsUse p {
+        line-height: 25pt;
+        font-size: 10pt;
+    }
+}
+/* sm */
+@media (min-width:576px) {
+    .classfications .item .classficationImg {
+        height: 80pt;
+    }
+    .classficationsPage .item .classficationImg{height: 100pt;}
+}
+/* Xs */
+@media (max-width:575px) {
+    .BigAdds .Add {height: 200pt;}
+    .classfications .item .classficationImg {
+        height: 80pt;
+    }
+    .AddsItems .AddsItem {
+        width: 80%;
+        margin: auto;
+    }
+    .sub-content {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .classficationsPage .item .classficationImg{height: 100pt;}
+    .modal .formPhone {width: 80%;}
+    .modal .formPhone .ContainerInput {width: 100%;}
+
+}
+@media (max-width:600px) and (min-width:376px) {
+    .DetailsProduct .SliderImgProduct .item {height: 400px;}
+    .DetailsProduct .SliderImgProduct .owl-dots{top: -45px;}
+    .DetailsProduct .SliderImgProduct .owl-dots .owl-dot img{
+        width: 60px;
+        height: 60px;
+    }
+    .DetailsProduct .DataContact .Phone {
+        padding: 7pt 25pt;
+        font-size: 10pt;
+    }
+    .DetailsProduct .describeProduct {
+        width: 95%;
+        font-size: 12pt;
+        line-height: 25pt;
+    }
+    .DetailsProduct .DataContact .SocialLinks a {
+        width: 50px;
+        height: 50px;
+        font-size: 16pt;
+    }
+    .DetailsProduct .FollowUser {
+        padding: 10pt 10pt
+    }
+    .DetailsProduct .FollowUser .Img-User img {
+        width: 50px;
+        height: 50px;
+    }
+    .DetailsProduct .FollowUser .Img-User span {
+        font-size: 13pt;
+    }
+    .DetailsProduct .FollowUser .BtnFollow button {
+        font-size: 13pt;
+        padding: 5pt 15pt;
+    }
+    .description .descriptionDetails {width: 100%;font-size: 11pt;text-align: justify;}
+ }
+@media (max-width:599px) and (min-width:500px) {
+    .AddsItems .AddsItem {width: 60%;margin: auto;}
+}
+@media (max-width:426px) {
+
+}
+@media (max-width:376px) {
+    .classfications .item .classficationImg {
+        height: 100pt;
+    }
+    .BigAdds .Add {height: 150pt;}
+    .AddsItems .AddsItem {
+        width: 100%;
+    }
+    .PostAd {
+        padding: 15pt 10pt;
+    }
+    .PostAd .ItemAd .select-items {
+        width: 70%;
+    }
+    .PostAd .ItemAd button[type=submit] {
+        width: 150px;
+        padding: 8pt 5pt;
+        font-size: 12pt;
+    }
+
+    .DetailsProduct .SliderImgProduct .item {height: 300px;}
+    .DetailsProduct .SliderImgProduct .owl-dots{top: -35px;}
+    .DetailsProduct .SliderImgProduct .owl-dots .owl-dot img{
+        width: 45px;
+        height: 45px;
+    }
+    .DetailsProduct .DataContact .Phone {
+        padding: 7pt 25pt;
+        font-size: 10pt;
+    }
+    .DetailsProduct .describeProduct {
+        width: 100%;
+        font-size: 11pt;
+        line-height: 20pt;
+    }
+    .DetailsProduct .DataContact .SocialLinks a {
+        width: 40px;
+        height: 40px;
+        font-size: 15pt;
+    }
+    .DetailsProduct .FollowUser {
+        padding: 10pt 10pt
+    }
+    .DetailsProduct .FollowUser .Img-User img {
+        width: 40px;
+        height: 40px;
+    }
+    .DetailsProduct .FollowUser .Img-User span {
+        font-size: 10pt;
+    }
+    .DetailsProduct .FollowUser .BtnFollow button {
+        font-size: 10pt;
+        padding: 3pt 10pt;
+    }
+    .description .descriptionDetails {width: 100%;font-size: 10pt;text-align: justify;}
+
+    .DetailsProduct .SliderImgProduct .item {height: 300px;}
+    .DetailsProduct .SliderImgProduct .owl-dots{top: -35px;}
+    .DetailsProduct .SliderImgProduct .owl-dots .owl-dot img{
+        width: 45px;
+        height: 45px;
+    }
+    .DetailsProduct .DataContact .Phone {
+        padding: 7pt 25pt;
+        font-size: 10pt;
+    }
+    .DetailsProduct .describeProduct {
+        width: 100%;
+        font-size: 11pt;
+        line-height: 20pt;
+    }
+    .DetailsProduct .DataContact .SocialLinks a {
+        width: 40px;
+        height: 40px;
+        font-size: 15pt;
+    }
+    .DetailsProduct .FollowUser {
+        padding: 10pt 10pt
+    }
+    .DetailsProduct .FollowUser .Img-User img {
+        width: 40px;
+        height: 40px;
+    }
+    .DetailsProduct .FollowUser .Img-User span {
+        font-size: 10pt;
+    }
+    .DetailsProduct .FollowUser .BtnFollow button {
+        font-size: 10pt;
+        padding: 3pt 10pt;
+    }
+    .description .descriptionDetails {width: 100%;font-size: 10pt;text-align: justify;}
+
+    .MyInfo .MyInfoContainer{width: 100%;}
+    .MyInfo .MyInfoContainer .MyMainInfo .TopDiv h4 {font-size: 12pt;}
+    .MyInfo .MyInfoContainer .MyData {display: block !important;}
+    .MyInfo .FollowData .DataItems {width: 90%;border-radius: 10pt;}
+    .MyInfo .MyInfoContainer .MyData .MyImg {
+        width: 80px;
+        height: 80px;
+        margin: auto;
+    }
+    .MyInfo .MyInfoContainer .MyMainInfo .TopDiv .SocialLinks a {
+        width: 30px;
+        height: 30px;
+        font-size: 11pt;
+    }
+    .MyInfo .MyInfoContainer .MyMainInfo .EditMyData a{padding: 5pt 10pt;}
+    .MyInfo .MyInfoContainer .MyMainInfo .EditMyData a span{display: none;}
+    .MyInfo .FollowData .DataItems h5{font-size: 10pt;}
+    .MyInfo .MyInfoContainer .MyData .MyImg::before {
+        top: -18px;
+        right: -50px;
+        content: url(../img/SVG/StyleIMgMobile.svg);
+    }
+}
+
+
+

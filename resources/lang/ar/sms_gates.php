@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'page_title' => 'بوابات الرسائل',
+    'content_title' => 'بوابات الرسائل',
+    'username' => 'المستخدم',
+    'password' => 'كلمة المرور',
+    'gate' => 'البوابة',
+    'title' => 'إسم البوابة',
+    'created_at' => 'تاريخ الإنشاء',
+    'updated_at' => 'آخر تعديل',
+    'sort_order' => 'الترتيب',
+    'your_balance_is' => 'رصيد البوابة هو',
+    'sender' => 'اسم المرسل',
+    'error_get_balance' => 'لم يتم التمكن من جلب الرصيد... رسالة البوابة هي',
+    'js_lang' => [
+        'sms_gates.yes' => 'نعم',
+        'sms_gates.no' => 'لا',
+        'sms_gates.none' => 'غير محدد',
+        'sms_gates.row_found' => 'تم ايجاد البوابة',
+        'sms_gates.no_row_found' => 'لم يتم ايجاد البوابة',
+        'sms_gates.error_delete_row' => 'خطأ أثناء عملية الحذف',
+        'sms_gates.success_delete_row' => 'تم حذف البوابة',
+        'sms_gates.success_add_gate' => 'تم إضافة بوابة جديدة',
+        'sms_gates.error_add_gate' => 'حصل خطأ أثناء عملية إضافة بوابة',
+        'sms_gates.unique_gate_title' => 'يجب كتابة عنوان بوابة غير موجود مسبقاً',
+        'sms_gates.success_update_gate' => 'تم تعديل البوابة بنجاح',
+        'sms_gates.error_update_gate' => 'حصل خطأ أثناء عملية تعديل البوابة',
+        'sms_gates.failed_update_sort' => 'حصل خطأ أثناء عملية تعديل الترتيب',
+        'sms_gates.success_update_sort' => 'تم تحديث ترتيب البوابات بنجاح',
+        'sms_gates.gate_not_found' => 'لم يتم ايجاد البوابة',
+        'balance' => 'الاستعلام عن الرصيد',
+        'order_up' => 'الترتيب لأعلى',
+        'order_down' => 'الترتيب لأسفل',
+    ]
+];

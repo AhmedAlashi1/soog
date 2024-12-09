@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+<g>
+	<path style="fill:#7AA9BF;" d="M360.021,305.328c-10.597-4.242-18.452-13.202-21.621-24.168&#10;&#9;&#9;c-10.349-35.816-43.375-62.008-82.525-62.008s-72.176,26.192-82.525,62.008c-3.169,10.966-11.024,19.926-21.621,24.168&#10;&#9;&#9;c-31.638,12.666-53.987,43.602-53.988,79.764c-0.001,46.806,38.198,85.419,85.002,85.898c19.265,0.197,37.077-5.954,51.488-16.486&#10;&#9;&#9;c12.914-9.438,30.374-9.438,43.288,0c14.411,10.532,32.224,16.683,51.489,16.486c46.804-0.479,85.003-39.092,85.002-85.898&#10;&#9;&#9;C414.008,348.93,391.659,317.994,360.021,305.328z"/>
+	
+		<ellipse transform="matrix(0.9905 -0.1373 0.1373 0.9905 -13.9422 25.302)" style="fill:#7AA9BF;" cx="176.401" cy="113.695" rx="56.898" ry="72.956"/>
+	
+		<ellipse transform="matrix(0.9221 -0.3869 0.3869 0.9221 -84.4083 43.8706)" style="fill:#7AA9BF;" cx="66.78" cy="231.624" rx="54.273" ry="69.263"/>
+	<path style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;M360.021,305.328c-10.597-4.242-18.452-13.202-21.621-24.168c-10.349-35.816-43.375-62.008-82.525-62.008&#10;&#9;&#9;s-72.176,26.192-82.525,62.008c-3.169,10.966-11.024,19.926-21.621,24.168c-31.638,12.666-53.987,43.602-53.988,79.764&#10;&#9;&#9;c-0.001,46.806,38.198,85.419,85.002,85.898c19.265,0.197,37.077-5.954,51.488-16.486c12.914-9.438,30.374-9.438,43.288,0&#10;&#9;&#9;c14.411,10.532,32.224,16.683,51.489,16.486c46.804-0.479,85.003-39.092,85.002-85.898&#10;&#9;&#9;C414.008,348.93,391.659,317.994,360.021,305.328z"/>
+	
+		<ellipse transform="matrix(0.9905 -0.1373 0.1373 0.9905 -13.9422 25.302)" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="176.401" cy="113.695" rx="56.898" ry="72.956"/>
+	
+		<ellipse transform="matrix(0.9221 -0.3869 0.3869 0.9221 -84.4083 43.8706)" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="66.78" cy="231.624" rx="54.273" ry="69.263"/>
+	
+		<ellipse transform="matrix(0.1373 -0.9905 0.9905 0.1373 176.8947 430.5008)" style="fill:#7AA9BF;" cx="335.599" cy="113.695" rx="72.956" ry="56.898"/>
+	
+		<ellipse transform="matrix(0.3869 -0.9221 0.9221 0.3869 59.3896 552.5687)" style="fill:#7AA9BF;" cx="445.22" cy="231.624" rx="69.263" ry="54.273"/>
+	<path style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;M285.371,152.834c8.364,18.62,23.565,31.594,42.126,33.349c31.296,2.96,60.294-27.095,64.769-67.129&#10;&#9;&#9;c4.475-40.034-17.268-74.888-48.565-77.847c-18.652-1.764-36.487,8.198-48.801,25.011"/>
+	
+		<ellipse transform="matrix(0.3869 -0.9221 0.9221 0.3869 59.3896 552.5687)" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="445.22" cy="231.624" rx="69.263" ry="54.273"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="279.016" y1="108.306" x2="279.016" y2="108.306"/>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>

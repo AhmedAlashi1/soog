@@ -1,0 +1,45 @@
+@font-face {
+    font-family: CariaBlack;
+    src: url('../font/Cairo-Black.ttf');
+}
+@font-face {
+    font-family: CariaBold;
+    src: url('../font/Cairo-Bold.ttf');
+}
+@font-face {
+    font-family: CariaExtraBold;
+    src: url('../font/Cairo-ExtraBold.ttf');
+}
+@font-face {
+    font-family: CariaExtraLight;
+    src: url('../font/Cairo-ExtraLight.ttf');
+}
+@font-face {
+    font-family: CariaLight;
+    src: url('../font/Cairo-Light.ttf');
+}
+@font-face {
+    font-family: CariaMedium;
+    src: url('../font/Cairo-Medium.ttf');
+}
+@font-face {
+    font-family: CariaRegular;
+    src: url('../font/Cairo-Regular.ttf');
+}
+@font-face {
+    font-family: CairoSemiBold;
+    src: url('../font/Cairo-SemiBold.ttf');
+}
+@font-face {
+    font-family: ConconLight;
+    src: url('../font/cocon-next-arabic.ttf');
+}
+.CariaBlack{font-family: CariaBlack;}
+.CariaBold{font-family: CariaBold;}
+.CariaExtraBold{font-family: CariaExtraBold;}
+.CariaExtraLight{font-family: CariaExtraLight;}
+.CariaLight{font-family: CariaLight;}
+.CariaMedium{font-family: CariaMedium;}
+.CariaRegular{font-family: CariaRegular;}
+.CairoSemiBold{font-family: CairoSemiBold;}
+.ConconLight{font-family: ConconLight;}
